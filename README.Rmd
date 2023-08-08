@@ -1,0 +1,35 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%",
+  eval = FALSE
+)
+```
+
+This repository is part of the project "Relationship of penguin body mass and sex", which will evaluate the relationship between body mass and sex in penguins of different species (Pygoscelis spp.) in the Palmer Archipelago in Antartica using mixed linear models. Considering males are generally bigger and, thus, have more mass, we expect that male penguins will present higher mass than female penguins.
+
+Authors: Matheus Batista dos Santos Pepe and Querida Online
+
+[Download instructions]
+
+Exemplo de utilização claro e executável (se estivermos falando de uma base de dados ou pacote)
+Estrutura de pastas e scripts (o que cada pasta contém, o que cada script faz)
+Status do projeto (finalizado/em andamento)
+Em caso de problema com algo no repositório, como reportar (Usar o GitHub issues é uma boa ideia)
+Licença
+
+
+
+
+
+
+
+
