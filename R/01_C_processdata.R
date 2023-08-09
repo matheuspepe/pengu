@@ -1,3 +1,4 @@
+library(here)
 library(dplyr)
 library(tidyr)
 data_penguins <- read.csv(here::here("data/raw", "data-penguins.csv"))
