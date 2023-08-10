@@ -1,4 +1,6 @@
 ---
+title: Relationship of penguin body mass, flipper length and sex
+author: Matheus Batista dos Santos Pepe, Querida Online
 output: github_document
 ---
 
